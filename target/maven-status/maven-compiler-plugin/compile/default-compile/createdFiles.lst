@@ -1,0 +1,6 @@
+com\prestashop\pages\BasePage.class
+com\prestashop\pages\ContactPage.class
+com\prestashop\pages\HomePage.class
+com\prestashop\pages\SearchResultsPage.class
+com\prestashop\pages\CategoryPage.class
+com\prestashop\pages\LanguageBarPage.class

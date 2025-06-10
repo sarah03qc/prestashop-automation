@@ -1,0 +1,6 @@
+com\prestashop\tests\ContactUsTest.class
+com\prestashop\tests\HomePageTest.class
+com\prestashop\tests\LanguageSwitchTest.class
+com\prestashop\tests\SearchTest.class
+com\prestashop\tests\BaseTest.class
+com\prestashop\tests\MenuNavigationTest.class
